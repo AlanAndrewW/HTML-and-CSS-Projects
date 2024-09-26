@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+		<head>
+				<title>This is my title</title>
+				<meta charset="utf-8">
+		</head>
+		<body>
+				<header style="background-color:mediumpurple">
+				<h1>Welcome to my website.</h1>
+				</header>
+				<hr>
+				
+		<main>
+		<h4>Lookat THESE:</h4>
+		<image src="https://www.ultraedit.com/wp-content/uploads/2022/11/copy-paste-syntax-highlighting2.png"
+		<p>This is a random photo of some code</p>
+		</main>
+		<main>
+		<image src="https://i.guim.co.uk/img/media/c5e73ed8e8325d7e79babf8f1ebbd9adc0d95409/2_5_1754_1053/master/1754.jpg?width=620&dpr=2&s=none"
+		<p>This is a black Cat</p>
+		</main>
+		<main>
+		<image src="https://imgs.search.brave.com/BDSnFV9Plq9W4ndt5Rert3BTRx2JWf8M4QoUM2R8doE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvODIz/Nzc2MjgyL3Bob3Rv/L3NpYmVyaWFuLWh1/c2t5LXNpdHRpbmct/NC15ZWFycy1vbGQt/aXNvbGF0ZWQtb24t/d2hpdGUuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPVQyb09Y/VmI3NHJ0RWN3SkFZ/M25UNDZDR3l6amVQ/dEhtc2VsOTNKRnl5/alk9"
+	    <p>This is a Siberian Husky similar in looks to my own.</p>
+		<footer>
+		<hr>
+		Author: Andrew Alan Wood<br>
+		&copy; copyright reserved<br>
+		<small><a href="mailto:andrewwood989@hotmail.com">andrewwood989@hotmail.com</a></small>
+		</footer>
+	</body>
+	<footer>
+	
+	</footer>
+</html>
