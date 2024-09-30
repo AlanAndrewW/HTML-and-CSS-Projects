@@ -1,0 +1,24 @@
+.font_1 {
+    background-color: teal;
+    color: greenyellow;
+    font-size: large;
+}
+.font_2 {
+    background-color: black;
+    color: red;
+    font-size: medium;
+}
+p {
+    color: red;
+    text-align: center;
+}
+h1 {
+    text-shadow: 3px 3px 5px red;
+    color: black;
+}
+#box1 {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    box-shadow: 3px 3px 5px;
+}
